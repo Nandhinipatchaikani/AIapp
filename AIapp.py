@@ -21,7 +21,7 @@ def get_base64_image(file_path):
 
 
 # Use a local image file path
-bg_image_path = "C:\\Users\\nandh\\OneDrive\\Desktop\\AI app\\Ai (2).png"
+bg_image_path = "Ai (2).png"
 bg_image_base64 = get_base64_image(bg_image_path)
 
 # CSS to add background image
